@@ -1,21 +1,21 @@
 [
   {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 16859,
-    "open_issues_count": 164,
-    "forks_count": 2437
+    "stargazers_count": 16888,
+    "open_issues_count": 167,
+    "forks_count": 2443
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 21540,
-    "open_issues_count": 183,
-    "forks_count": 2362
+    "stargazers_count": 21557,
+    "open_issues_count": 184,
+    "forks_count": 2365
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 22394,
+    "stargazers_count": 22659,
     "open_issues_count": 7,
-    "forks_count": 2148
+    "forks_count": 2220
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 9871,
-    "open_issues_count": 32,
-    "forks_count": 2299
+    "stargazers_count": 9895,
+    "open_issues_count": 33,
+    "forks_count": 2300
   }
 ]
