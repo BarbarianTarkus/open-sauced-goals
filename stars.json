@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "matyiu/AZ204-NET-WEBAPP",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 17690,
-    "open_issues_count": 207,
-    "forks_count": 2547
+    "stargazers_count": 17737,
+    "open_issues_count": 208,
+    "forks_count": 2553
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 22242,
-    "open_issues_count": 190,
-    "forks_count": 2438
+    "stargazers_count": 22289,
+    "open_issues_count": 191,
+    "forks_count": 2444
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 33685,
-    "open_issues_count": 24,
-    "forks_count": 3674
+    "stargazers_count": 34204,
+    "open_issues_count": 25,
+    "forks_count": 3731
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 10607,
-    "open_issues_count": 68,
-    "forks_count": 2449
+    "stargazers_count": 10637,
+    "open_issues_count": 59,
+    "forks_count": 2459
   }
 ]
