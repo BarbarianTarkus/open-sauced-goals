@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "ajnart/homarr",
+    "stargazers_count": 3154,
+    "open_issues_count": 123,
+    "forks_count": 158
+  },
+  {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 13020,
-    "open_issues_count": 108,
-    "forks_count": 986
+    "stargazers_count": 13048,
+    "open_issues_count": 109,
+    "forks_count": 991
   },
   {
     "full_name": "patzly/grocy-android",
-    "stargazers_count": 680,
-    "open_issues_count": 65,
+    "stargazers_count": 682,
+    "open_issues_count": 58,
     "forks_count": 73
   },
   {
@@ -19,21 +25,21 @@
   },
   {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 19593,
-    "open_issues_count": 302,
-    "forks_count": 2761
+    "stargazers_count": 19620,
+    "open_issues_count": 303,
+    "forks_count": 2764
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 23523,
+    "stargazers_count": 23549,
     "open_issues_count": 214,
-    "forks_count": 2595
+    "forks_count": 2599
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 45347,
+    "stargazers_count": 45551,
     "open_issues_count": 30,
-    "forks_count": 5206
+    "forks_count": 5233
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -43,8 +49,8 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 11522,
-    "open_issues_count": 17,
-    "forks_count": 2488
+    "stargazers_count": 11541,
+    "open_issues_count": 12,
+    "forks_count": 2490
   }
 ]
