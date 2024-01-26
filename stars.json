@@ -1,32 +1,38 @@
 [
   {
+    "full_name": "DigitOtter/coqui-tts-server-gui",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Klocman/Bulk-Crap-Uninstaller",
-    "stargazers_count": 8633,
-    "open_issues_count": 70,
+    "stargazers_count": 8671,
+    "open_issues_count": 73,
     "forks_count": 475
   },
   {
     "full_name": "stemrollerapp/stemroller",
-    "stargazers_count": 2266,
-    "open_issues_count": 8,
+    "stargazers_count": 2274,
+    "open_issues_count": 9,
     "forks_count": 82
   },
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 4427,
-    "open_issues_count": 157,
+    "stargazers_count": 4452,
+    "open_issues_count": 154,
     "forks_count": 216
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 14260,
+    "stargazers_count": 14292,
     "open_issues_count": 151,
-    "forks_count": 1117
+    "forks_count": 1121
   },
   {
     "full_name": "patzly/grocy-android",
-    "stargazers_count": 746,
-    "open_issues_count": 58,
+    "stargazers_count": 747,
+    "open_issues_count": 59,
     "forks_count": 77
   },
   {
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 20830,
-    "open_issues_count": 348,
-    "forks_count": 2900
+    "stargazers_count": 20881,
+    "open_issues_count": 349,
+    "forks_count": 2904
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 24358,
+    "stargazers_count": 24378,
     "open_issues_count": 228,
     "forks_count": 2690
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 54678,
+    "stargazers_count": 54843,
     "open_issues_count": 42,
-    "forks_count": 6269
+    "forks_count": 6281
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 12165,
-    "open_issues_count": 24,
+    "stargazers_count": 12183,
+    "open_issues_count": 25,
     "forks_count": 2476
   }
 ]
