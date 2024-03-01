@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Plachtaa/VALL-E-X",
+    "stargazers_count": 6910,
+    "open_issues_count": 79,
+    "forks_count": 668
+  },
+  {
     "full_name": "DigitOtter/coqui-tts-server-gui",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,32 +13,32 @@
   },
   {
     "full_name": "Klocman/Bulk-Crap-Uninstaller",
-    "stargazers_count": 8982,
+    "stargazers_count": 9005,
     "open_issues_count": 71,
-    "forks_count": 474
+    "forks_count": 475
   },
   {
     "full_name": "stemrollerapp/stemroller",
-    "stargazers_count": 2320,
+    "stargazers_count": 2324,
     "open_issues_count": 9,
     "forks_count": 82
   },
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 4642,
-    "open_issues_count": 163,
-    "forks_count": 222
+    "stargazers_count": 4707,
+    "open_issues_count": 164,
+    "forks_count": 224
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 14576,
-    "open_issues_count": 116,
-    "forks_count": 1127
+    "stargazers_count": 14627,
+    "open_issues_count": 109,
+    "forks_count": 1134
   },
   {
     "full_name": "patzly/grocy-android",
     "stargazers_count": 771,
-    "open_issues_count": 64,
+    "open_issues_count": 65,
     "forks_count": 80
   },
   {
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 21220,
-    "open_issues_count": 362,
-    "forks_count": 2880
+    "stargazers_count": 21268,
+    "open_issues_count": 364,
+    "forks_count": 2882
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 24552,
+    "stargazers_count": 24566,
     "open_issues_count": 228,
-    "forks_count": 2681
+    "forks_count": 2684
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 56587,
+    "stargazers_count": 56776,
     "open_issues_count": 49,
-    "forks_count": 6411
+    "forks_count": 6437
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 12316,
+    "stargazers_count": 12330,
     "open_issues_count": 19,
     "forks_count": 2450
   }
