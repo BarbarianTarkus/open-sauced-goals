@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Plachtaa/VALL-E-X",
-    "stargazers_count": 7205,
+    "stargazers_count": 7220,
     "open_issues_count": 89,
-    "forks_count": 719
+    "forks_count": 721
   },
   {
     "full_name": "DigitOtter/coqui-tts-server-gui",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "Klocman/Bulk-Crap-Uninstaller",
-    "stargazers_count": 9590,
+    "stargazers_count": 9625,
     "open_issues_count": 80,
-    "forks_count": 502
+    "forks_count": 503
   },
   {
     "full_name": "stemrollerapp/stemroller",
-    "stargazers_count": 2411,
+    "stargazers_count": 2412,
     "open_issues_count": 0,
-    "forks_count": 88
+    "forks_count": 89
   },
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 5155,
-    "open_issues_count": 172,
+    "stargazers_count": 5173,
+    "open_issues_count": 169,
     "forks_count": 245
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 15517,
-    "open_issues_count": 82,
-    "forks_count": 1203
+    "stargazers_count": 15555,
+    "open_issues_count": 80,
+    "forks_count": 1204
   },
   {
     "full_name": "patzly/grocy-android",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 22062,
-    "open_issues_count": 383,
-    "forks_count": 2942
+    "stargazers_count": 22112,
+    "open_issues_count": 386,
+    "forks_count": 2946
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 24960,
-    "open_issues_count": 232,
-    "forks_count": 2727
+    "stargazers_count": 24986,
+    "open_issues_count": 233,
+    "forks_count": 2730
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 60823,
+    "stargazers_count": 61009,
     "open_issues_count": 57,
-    "forks_count": 6981
+    "forks_count": 7000
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 12634,
-    "open_issues_count": 14,
+    "stargazers_count": 12645,
+    "open_issues_count": 16,
     "forks_count": 2455
   }
 ]
