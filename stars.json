@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "shub39/Rush",
+    "stargazers_count": 460,
+    "open_issues_count": 11,
+    "forks_count": 21
+  },
+  {
     "full_name": "karyeet/Necesse-Server-Docker",
     "stargazers_count": 14,
     "open_issues_count": 0,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "avdept/JellyBoxPlayer",
-    "stargazers_count": 366,
+    "stargazers_count": 368,
     "open_issues_count": 23,
     "forks_count": 13
   },
   {
     "full_name": "hudy9x/namviek",
-    "stargazers_count": 2134,
+    "stargazers_count": 2140,
     "open_issues_count": 8,
-    "forks_count": 252
+    "forks_count": 251
   },
   {
     "full_name": "dreamsofautonomy/zensh",
-    "stargazers_count": 311,
+    "stargazers_count": 313,
     "open_issues_count": 3,
-    "forks_count": 46
+    "forks_count": 48
   },
   {
     "full_name": "Plachtaa/VALL-E-X",
-    "stargazers_count": 7781,
+    "stargazers_count": 7785,
     "open_issues_count": 95,
-    "forks_count": 772
+    "forks_count": 773
   },
   {
     "full_name": "DigitOtter/coqui-tts-server-gui",
@@ -37,32 +43,32 @@
   },
   {
     "full_name": "Klocman/Bulk-Crap-Uninstaller",
-    "stargazers_count": 13577,
-    "open_issues_count": 104,
-    "forks_count": 657
+    "stargazers_count": 13622,
+    "open_issues_count": 105,
+    "forks_count": 656
   },
   {
     "full_name": "stemrollerapp/stemroller",
-    "stargazers_count": 2711,
+    "stargazers_count": 2718,
     "open_issues_count": 4,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 6652,
+    "stargazers_count": 6661,
     "open_issues_count": 103,
     "forks_count": 290
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 19673,
-    "open_issues_count": 141,
-    "forks_count": 1457
+    "stargazers_count": 19732,
+    "open_issues_count": 143,
+    "forks_count": 1458
   },
   {
     "full_name": "patzly/grocy-android",
-    "stargazers_count": 940,
-    "open_issues_count": 107,
+    "stargazers_count": 943,
+    "open_issues_count": 109,
     "forks_count": 91
   },
   {
@@ -73,21 +79,21 @@
   },
   {
     "full_name": "JaidedAI/EasyOCR",
-    "stargazers_count": 25514,
-    "open_issues_count": 471,
-    "forks_count": 3237
+    "stargazers_count": 25571,
+    "open_issues_count": 473,
+    "forks_count": 3248
   },
   {
     "full_name": "deezer/spleeter",
-    "stargazers_count": 26344,
+    "stargazers_count": 26374,
     "open_issues_count": 255,
-    "forks_count": 2889
+    "forks_count": 2888
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 76189,
+    "stargazers_count": 76416,
     "open_issues_count": 94,
-    "forks_count": 9102
+    "forks_count": 9138
   },
   {
     "full_name": "danieldevine/bird-elephant",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "jaakkopasanen/AutoEq",
-    "stargazers_count": 13812,
+    "stargazers_count": 13831,
     "open_issues_count": 106,
     "forks_count": 2482
   }
